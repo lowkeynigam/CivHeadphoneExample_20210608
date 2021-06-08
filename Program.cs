@@ -29,6 +29,7 @@ namespace CivHeadphoneExample_20210608
             System.Console.WriteLine(HyperX.PlugType);
             System.Console.WriteLine(QC35.WirelessProtocol);
             System.Console.WriteLine(NC56.Algorithm);
+            //testing
         }
     }
 }
